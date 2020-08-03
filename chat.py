@@ -7,10 +7,10 @@ for i in range(1):
     xyz = 0
 
     list_1 = [
-        "Rushil",
-        "Purva",
-        "Prafulla",
-        "Aanya"
+        "Rushil",#me
+        "Purva",#mom
+        "Prafulla",#dad
+        "Aanya"#sister 
     ]
 
     fgh = ("Enter a username if name not in list:-",list_1)
