@@ -40,7 +40,7 @@ for i in range(1):
     global chat
     chat = Entry(root_2,width=40 ,borderwidth=5)
     chat.grid(row=20,column=2)
-    phto = PhotoImage(file="C:\\Users\\rushil\\Pictures\\Camera Roll\\Pika.png")
+    phto = PhotoImage(file="C:\\Users\\rushil\\Pictures\\Camera Roll\\Pika.png")#Pika.png is a send icon !!
     clckd = clicked1.get()
     def send():
         global entry
